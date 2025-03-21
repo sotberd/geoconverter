@@ -135,4 +135,4 @@ To maintain code quality, this project uses pre-commit hooks. These hooks can au
 
 ## License
 
-This project is licensed under the terms of the [MIT](LICENCE).
+This project is licensed under the terms of the [MIT](LICENSE).
